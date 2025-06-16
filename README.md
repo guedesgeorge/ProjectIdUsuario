@@ -4,7 +4,7 @@ Este é um projeto simples de uma API REST desenvolvida com **Spring Boot** e ba
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+# 🚀 Tecnologias Utilizadas
 
 - Java 17+
 - Spring Boot 3.5
@@ -15,7 +15,7 @@ Este é um projeto simples de uma API REST desenvolvida com **Spring Boot** e ba
 
 ---
 
-## 📁 Estrutura do Projeto
+# 📁 Estrutura do Projeto
 
 src/ 
 
@@ -41,7 +41,7 @@ Editar
 
 ---
 
-## 🔧 Configuração do `application.properties`
+# 🔧 Configuração do `application.properties`
 
 ```properties
 spring.data.mongodb.uri=mongodb+srv://<USUARIO>:<SENHA>@cluster0.pqi5uqx.mongodb.net/testeProject?retryWrites=true&w=majority&appName=Cluster0
@@ -77,7 +77,7 @@ Editar
 ❌ DELETE /usuarios/{id}
 Remove um usuário pelo ID.
 
- ## 🧪 Testando com Postman
+ # 🧪 Testando com Postman
 Abra o Postman.
 
 Escolha o método (GET, POST, PUT, DELETE).
@@ -88,7 +88,7 @@ Envie o corpo da requisição no formato JSON (para POST/PUT).
 
 Veja o resultado e confirme no MongoDB Atlas em Collections.
 
-## 🗃️ Acessando os dados no MongoDB Atlas
+# 🗃️ Acessando os dados no MongoDB Atlas
 Acesse https://cloud.mongodb.com
 
 Vá até seu projeto testeProject.
@@ -97,7 +97,7 @@ Clique em Clusters > Collections
 
 Escolha o banco e depois a coleção usuarios.
 
-## 🧠 Autor
+# 🧠 Autor
 George Emannuel Guedes de Carvalho
 Ciência da Computação – UCDB
 Desenvolvido após o curso de Bootcamp Rocketseat ( Java )
