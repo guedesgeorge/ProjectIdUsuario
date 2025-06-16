@@ -17,14 +17,22 @@ Este é um projeto simples de uma API REST desenvolvida com **Spring Boot** e ba
 
 ## 📁 Estrutura do Projeto
 
-src/
+src/ 
+
 ├── main/
+
 │ ├── java/httpprotocolo/demo/
+
 │ │ ├── DemoApplication.java
+
 │ │ ├── Usuario.java
+
 │ │ ├── UsuarioController.java
+
 │ │ └── UsuarioRepository.java
+
 │ └── resources/
+
 │ └── application.properties
 
 yaml
