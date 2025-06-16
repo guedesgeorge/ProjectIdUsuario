@@ -59,8 +59,8 @@ json
 Copiar
 Editar
 {
-  "nome": "Maria Teste",
-  "email": "maria@email.com"
+  "nome": "George Teste",
+  "email": "George@email.com"
 }
 ✏️ PUT /usuarios/{id}
 Atualiza um usuário existente com base no ID.
